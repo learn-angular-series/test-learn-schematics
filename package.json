@@ -1,10 +1,9 @@
 {
   "name": "test-learn-schematics",
   "author": {
-    "name": "大漠穷秋",
-    "email": "252445528@qq.com"
+    "name": "大漠穷秋"
   },
-  "description": "用来测试learn-schematics项目里面定义的规则",
+  "description": "用来测试 learn-schematics 项目里面定义的规则",
   "version": "1.0.0",
   "license": "MIT",
   "scripts": {
